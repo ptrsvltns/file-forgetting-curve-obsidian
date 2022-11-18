@@ -1,7 +1,7 @@
 export default {
   "File Forgetting Curve": "文件遗忘曲线",
   "View - File Forgetting Curve": "视图 - 文件遗忘曲线",
-  "File Expired": "文件过期",
+  "File Expired": "文件到期",
   "Open [View - File Forgetting Curve] to check": "打开 [视图 - 文件遗忘曲线] 查看",
   "Pick Label": "选择标签",
   "Remove Label": "删除标签",
@@ -28,7 +28,7 @@ export default {
   "Create Remind - File Forgetting Curve": "创建提醒 - 文件遗忘曲线",
   "Empty": "空",
   "Reload": "重新加载",
-  "Expired": "已过期",
+  "Expired": "已到期",
   "Waiting for a reminder": "等待提醒",
   "day": "天",
   "days": "天",
