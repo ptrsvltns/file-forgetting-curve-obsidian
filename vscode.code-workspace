@@ -1,0 +1,18 @@
+{
+	"folders": [{
+		"path": "."
+	}],
+	"settings": {
+		"editor.tabSize": 2,
+		"files.exclude": {
+			"dist": true,
+			"node_modules": true,
+			"package-lock.json": true,
+			"vscode.code-workspace": true,
+			"data.json": true,
+			"main.js": true
+		},
+		"editor.formatOnPaste": true,
+		"editor.formatOnType": true
+	}
+}
