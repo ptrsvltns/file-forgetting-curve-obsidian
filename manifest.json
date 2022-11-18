@@ -1,0 +1,9 @@
+{
+	"id": "file-forgetting-curve-obsidian",
+	"name": "File Forgetting Curve",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "File Forgetting Curve",
+	"author": "ptrsvltns",
+	"isDesktopOnly": true
+}
